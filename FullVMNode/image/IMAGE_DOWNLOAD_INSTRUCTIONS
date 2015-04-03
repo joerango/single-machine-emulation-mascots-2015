@@ -1,0 +1,8 @@
+Download the Ubuntu VM from the following link. This URL takes you to a webpage with a link to download the file.
+https://utdallas.box.com/ubuntu-minimal-emu
+
+Alternatively, you can use this direct link:
+https://utdallas.box.com/shared/static/uu2c4oacezanzczjrkqtl6w9tsq6il8g.xz
+
+Extract the image after downloading using tar as follows:
+tar xvf <archive name>
